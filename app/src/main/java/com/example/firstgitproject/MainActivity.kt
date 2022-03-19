@@ -14,6 +14,12 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this, "hello to all after first commit", Toast.LENGTH_SHORT).show()
 
 
+        Toast.makeText(this, "toast number 1", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "toast number 2", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "toast number 3", Toast.LENGTH_SHORT).show()
+
+
+
 
     }
 }
